@@ -117,7 +117,7 @@ author:
   avatar           : "/assets/images/bio-photo.jpg"
   bio              : "백엔드 개발자 지망생의 성장 기록"
   location         : "South korea"
-  email            : "mapzine123@naver.com"
+  # email            : "mapzine123@naver.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
